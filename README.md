@@ -17,6 +17,10 @@ Install the dependencies using npm package manager:
 
 In terminal type:
 
+either `node index.js` 
+
+OR for development purpose:
+
 `npm start`
 
 ### REST Routes:
