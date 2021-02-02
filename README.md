@@ -9,7 +9,7 @@ The IDE used was VS Code.
 - Express
 ### Setup and Usage
 
-`git clone git@github.com:USF-CS601-Fall20/side-project-Rajeshwari21.git`
+`git clone git@github.com:Rajeshwari21/fetch-rewards.git`
 
 Install the dependencies using npm package manager:
 
@@ -34,4 +34,3 @@ In terminal type:
  ![Image description](https://user-images.githubusercontent.com/12795540/106538704-81868d80-64b1-11eb-9d26-1bcec3b4fe4b.png)
 3. Return balance point per user:
  ![Image description](https://user-images.githubusercontent.com/12795540/106538722-86e3d800-64b1-11eb-9252-7815d13b8482.png)
- 
