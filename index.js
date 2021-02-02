@@ -2,9 +2,10 @@ const express = require('express');
 const bodyParser = require('body-parser');
 const cors = require('cors');
 
-const routes = require('./routes/rewardPointsRoute'); //importing route
+//Importing route
+const routes = require('./routes/rewardPointsRoute'); 
 
-// initialize express & bodyParser.
+// Initialize express & bodyParser.
 const app = express();
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
